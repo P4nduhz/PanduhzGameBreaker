@@ -8,7 +8,7 @@ Panduhz Game Breaker is a cheat menu meant for lethal company with credits to [M
 Get started with BepInEx using the Lethal-Company-BepInEx-Installer. Download the latest release of the mod menu from the releases page. In case of any issues, follow these steps:
 
     Navigate to the Lethal Company folder path.
-    Go to "\BepInEx\config".
+    Go to "\BepInEx".
     Insert the PanduhzGameBreaker.dll file in folder "\BepInEx\plugins".
     If it doesn't work please retry
     Everyone else needs to have bepinex installed in order to play with them
