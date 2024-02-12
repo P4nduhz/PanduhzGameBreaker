@@ -29,5 +29,8 @@ Get started with BepInEx using the Lethal-Company-BepInEx-Installer. Download th
       - No Hinderance (ex. spider webs, zap gun stun)
       - Infinite Shotgun Ammo
       - Bleeding Effect
+• Server Side
+    - Infinite Credits
 
 ```
+more features to come stay tuned
