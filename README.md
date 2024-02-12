@@ -1,30 +1,33 @@
 # Panduhz Game Breaker
+# About
 
+Panduhz Game Breaker is a cheat menu meant for lethal company with credits to [Minx](https://github.com/lawrencea13) and his mod [GameMaster 2.0](https://github.com/lawrencea13/GameMaster2.0).
 
-**Panduhz Game Breaker** is designed to increase the enjoyment of the game with the use of *cheats* and modifying values in the games code with a dll. It is equiped with a fully functioning gui. This mod would not be possible without the help of my good friend Minx: https://github.com/lawrencea13/ check out his lethal company game master mod: https://github.com/lawrencea13/GameMaster2.0
-300+ downloads
-I am currently working on fixing a few bugs and adding a couple more features in the soon to come future.
+# Installation Guide
 
-Use f2 to open the menu
+Get started with BepInEx using the Lethal-Company-BepInEx-Installer. Download the latest release of the mod menu from the releases page. In case of any issues, follow these steps:
 
-### Client Side Features
--FlyHack (also kinda behaves like no clip)
--Infinite Ammo
--Speed Hack
--Jump Hack
--Interact Hack
--Infinite sprint
--No Drowning
--No Fall Damage
--Reach 
--Shovel Damage
--Player Hinderence (no slowdown ex. cobwebs, zapgun effect)
--God Mode
--Stun Grenade Timer
--Faster Climbing
+    Navigate to the Lethal Company folder path.
+    Go to "\BepInEx\config".
+    Insert the PanduhzGameBreaker.dll file in folder "\BepInEx\plugins".
+    If it doesn't work please retry
+    Everyone else needs to have bepinex installed in order to play with them
+# Features
+```
+• Client Side
+      - God Mode
+      - Fly Hack
+      - Speed Hack
+      - Jump Hack
+      - Faster Climbing
+      - Faster Interact
+      - Infinite Sprint
+      - No Drowning
+      - No Fall Damage
+      - Reach Hack
+      - Increased Shovel Damage
+      - No Hinderance (ex. spider webs, zap gun stun)
+      - Infinite Shotgun Ammo
+      - Bleeding Effect
 
-### Server/Host side Features
--infinite credits
-
-other features that are not mentioned are more experimental and not fully completed
-currently working on bug fixes and adding more features
+```
